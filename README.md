@@ -35,6 +35,6 @@
 
 
 5.Show Demo Web page
-[Demo page](https://johmartin.github.io/flutterwebadmin/)
+[Demo page https://johmartin.github.io/flutterwebadmin/](https://johmartin.github.io/flutterwebadmin/)
 
 
