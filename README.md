@@ -1,7 +1,7 @@
 # Flutter Web Deploy(배포)
 
 1. 신규 New  Repository 생성
-<img width="455" alt="스크린샷 2021-11-22 오후 7 28 18" src="https://user-images.githubusercontent.com/82506516/142845386-d790f4c7-1c8f-4387-a4ef-0a98b81e13ed.png">
+![image](https://user-images.githubusercontent.com/82506516/142849261-838651e4-2d15-4522-a58b-b3e68a4a2fe4.png)
 
 
 2. Personal access tokens 개인 토큰 생성
